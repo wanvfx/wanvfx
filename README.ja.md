@@ -1,28 +1,28 @@
-<p align="center"><b>🇺🇸 English</b> &nbsp;·&nbsp; <a href="./README.zh-CN.md">🇨🇳 简体中文</a> &nbsp;·&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;·&nbsp; <a href="./README.ko.md">🇰🇷 한국어</a></p>
+<p align="center"><a href="./README.md">🇺🇸 English</a> &nbsp;·&nbsp; <a href="./README.zh-CN.md">🇨🇳 简体中文</a> &nbsp;·&nbsp; <b>🇯🇵 日本語</b> &nbsp;·&nbsp; <a href="./README.ko.md">🇰🇷 한국어</a></p>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:15426B,100:1F6FEB&height=260&section=header&text=Zoyaya&fontSize=84&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&fontFamily=Verdana" alt="Zoyaya"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=0969DA&center=true&vCenter=true&width=560&duration=2600&pause=1200&lines=Hi%2C%20I%27m%20Zoyaya;I%20write%20code.%20Live%20shows%20too.;Go%20%2F%20Python%20%2F%20C%23%20%2F%20Vue%20%2F%20React;OpenWrt%20%26%20iStoreOS%20plugin%20dev;Tools%20should%20serve%20creation" alt="typed intro"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+JP&size=22&color=0969DA&center=true&vCenter=true&width=560&duration=2600&pause=1200&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Zoyaya%20%E3%81%A7%E3%81%99;%E3%82%B3%E3%83%BC%E3%83%89%E3%82%82%E6%9B%B8%E3%81%8F%E3%81%97%E3%80%81%E9%85%8D%E4%BF%A1%E3%82%82%E3%82%84%E3%82%8B;Go%20%2F%20Python%20%2F%20C%23%20%2F%20Vue%20%2F%20React;OpenWrt%E3%83%BBiStoreOS%20%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E9%96%8B%E7%99%BA;%E9%81%93%E5%85%B7%E3%81%AF%E5%89%B5%E4%BD%9C%E3%81%AB%E4%BB%95%E3%81%88%E3%82%8B%E3%82%82%E3%81%AE" alt="typed intro"/>
 
 </div>
 
 <br/>
 
-## About me
+## 私について
 
-Hi there, I'm Zoyaya, just a hobbyist who enjoys taking things apart. Go and Python are what I poke at for fun; when something about my router annoys me I dig into OpenWrt; live shows and video tools eat the rest of my weekends. None of this is a day job. It's curiosity, plus a bit of stubbornness.
+こんにちは、Zoyaya です。ただの好き者です。Go と Python は遊びでいじっていて、ルーターが気に食わないと OpenWrt を掘り起こし、ライブ配信と映像の道具に残りの週末を全部持っていかれます。どれも本職ではなく、全部好奇心と、少しの意地です。
 
-The languages I fiddle with are Go and Python, with C# for small Windows tools. It started as an OpenWrt rabbit hole, then a few LuCI apps for iStoreOS. The one I care about most is luci-app-model-gateway: it pools the free quotas of several LLM providers behind a single API, so your conversation never drops mid-way.
+いつも触っている言語は Go と Python、Windows の小道具は C#。もともと OpenWrt の穴に落ちたのが始まりで、iStoreOS 向けの LuCI アプリをいくつか書きました。いちばん力を入れたのは luci-app-model-gateway。複数の大規模モデルの無料枠を一つにまとめて、一つの API で好きなだけ使い、会話が途中で切れません。
 
-I don't build everything myself, though. PRs into other people's repos take up the rest of my time. Running live shows needed a decent controller, so vMixUTC got a full multi-language rebuild, a canvas mode, and a pile of bug fixes from me. Nomi, an open-source AI video workbench, gets feature contributions on and off. Some of it merged, some needs another round. That merged notification never gets old.
+なんでも自分で作っているわけではありません。人のプロジェクトへの PR が残りの時間の使い道です。ライブ配信の操作盤が欲しくて、vMixUTC に多言語対応とキャンバスモードを提案し、バグ修正も山ほど送りました。オープンソースの AI 動画ワークベンチ Nomi にも、機能コードをぽつぽつと。マージされたものもあれば、まだ磨かないとならないものもあります。マージの通知は何回見ても嬉しいものです。
 
-Whatever finally works ends up on a video site, along with the bugs I stepped on. If you also believe tools should serve creation instead of getting in its way, we'll probably get along.
+うまく動くようになったものは、とある動画サイトに上げています。踏んだ落とし穴の記録付きで。道具は創作に仕えるもので、邪魔するものじゃないと思う人なら、きっと話が合います。
 
 <br/>
 
-## Featured projects
+## 注目のプロジェクト
 
 <p align="center">
   <a href="https://github.com/wanvfx/luci-app-model-gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=luci-app-model-gateway&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="luci-app-model-gateway"/></a>&nbsp;
@@ -33,11 +33,11 @@ Whatever finally works ends up on a video site, along with the bugs I stepped on
   <a href="https://github.com/wanvfx/openwrt-app-actions/tree/main/applications/luci-app-cloudreve"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=openwrt-app-actions&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="openwrt-app-actions"/></a>
 </p>
 
-luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third card is the iStore/OpenWrt app collection, click through to the applications/luci-app-cloudreve folder, a netdisk app that runs on soft routers.
+三つのプロジェクト。luci-app-model-gateway は自分のもの、vMixUTC は上流への貢献です。三つ目は iStore/OpenWrt アプリ集の保存庫で、applications/luci-app-cloudreve を開くと、ソフットルーターで動くファイルストレージアプリがあります。
 
 <br/>
 
-## Tech stack
+## 技術スタック
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,cs,dotnet,html,css,vue,react,nodejs,electron,tauri,docker,linux,bash,git,github,nginx,redis,mysql&perline=11&theme=light" alt="tech stack icons"/>
@@ -56,7 +56,7 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 
 <br/>
 
-## GitHub at a glance
+## GitHub の記録
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wanvfx&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A" alt="stats card"/>&nbsp;
@@ -75,21 +75,21 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 
 <br/>
 
-## What I'm up to lately
+## 最近やっていること
 
-- Nomi: an open-source AI video workbench I send feature PRs to, not my project
+- Nomi：オープンソースの AI 動画ワークベンチ。上流に機能 PR を出しているだけで、自分のプロジェクトではない
 
-- luci-app-model-gateway: my own AI gateway, still evolving. Quota pooling, routing, caching, health checks
+- luci-app-model-gateway：自分の AI ゲートウェイ、改修中。枠の集約、ルーティング、キャッシュ、ヘルスチェック
 
-- vMixUTC: multi-language support and a canvas mode submitted upstream, plus a long tail of bug fixes
+- vMixUTC：上流に多言語対応とキャンバスモードを提案、バグ修正も続々と
 
-- A video site: whatever I get working, and the occasional rant about workflows
+- とある動画サイト：動くようになったものを上げ、ワークフローの愚痴も少々
 
 <br/>
 
-## Find me
+## 連絡先
 
-If anything here is useful, a ⭐ is all the encouragement I need.
+役に立つものがあったら、★ ひとつが最大の励ましです。
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wanvfx&style=flat&color=0969DA&label=PROFILE+VIEWS" alt="profile views"/>&nbsp;

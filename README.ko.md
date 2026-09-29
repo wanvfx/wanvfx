@@ -1,28 +1,28 @@
-<p align="center"><b>🇺🇸 English</b> &nbsp;·&nbsp; <a href="./README.zh-CN.md">🇨🇳 简体中文</a> &nbsp;·&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;·&nbsp; <a href="./README.ko.md">🇰🇷 한국어</a></p>
+<p align="center"><a href="./README.md">🇺🇸 English</a> &nbsp;·&nbsp; <a href="./README.zh-CN.md">🇨🇳 简体中文</a> &nbsp;·&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;·&nbsp; <b>🇰🇷 한국어</b></p>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:15426B,100:1F6FEB&height=260&section=header&text=Zoyaya&fontSize=84&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&fontFamily=Verdana" alt="Zoyaya"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=0969DA&center=true&vCenter=true&width=560&duration=2600&pause=1200&lines=Hi%2C%20I%27m%20Zoyaya;I%20write%20code.%20Live%20shows%20too.;Go%20%2F%20Python%20%2F%20C%23%20%2F%20Vue%20%2F%20React;OpenWrt%20%26%20iStoreOS%20plugin%20dev;Tools%20should%20serve%20creation" alt="typed intro"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+KR&size=22&color=0969DA&center=true&vCenter=true&width=560&duration=2600&pause=1200&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20Zoyaya%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%BD%94%EB%93%9C%EB%8F%84%20%EC%93%B0%EA%B3%A0%2C%20%EB%B0%A9%EC%86%A1%EB%8F%84%20%ED%95%A9%EB%8B%88%EB%8B%A4;Go%20%2F%20Python%20%2F%20C%23%20%2F%20Vue%20%2F%20React;OpenWrt%20%C2%B7%20iStoreOS%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%20%EA%B0%9C%EB%B0%9C;%EB%8F%84%EA%B5%AC%EB%8A%94%20%EC%B0%BD%EC%9E%91%EC%9D%84%20%EC%9C%84%ED%95%B4%20%EC%A1%B4%EC%9E%AC%ED%95%9C%EB%8B%A4" alt="typed intro"/>
 
 </div>
 
 <br/>
 
-## About me
+## 나에 대해
 
-Hi there, I'm Zoyaya, just a hobbyist who enjoys taking things apart. Go and Python are what I poke at for fun; when something about my router annoys me I dig into OpenWrt; live shows and video tools eat the rest of my weekends. None of this is a day job. It's curiosity, plus a bit of stubbornness.
+안녕하세요, Zoyaya입니다. 그냥 좋아서 들썩이는 사람입니다. Go와 Python은 재미로 만지고, 라우터가 마음에 안 들면 OpenWrt를 파고들고, 방송과 영상 도구에 남은 주말을 다 바칩니다. 어느 것도 직업이 아니고, 전부 호기심과 약간의 고집입니다.
 
-The languages I fiddle with are Go and Python, with C# for small Windows tools. It started as an OpenWrt rabbit hole, then a few LuCI apps for iStoreOS. The one I care about most is luci-app-model-gateway: it pools the free quotas of several LLM providers behind a single API, so your conversation never drops mid-way.
+주로 만지는 언어는 Go와 Python, Windows 작은 도구는 C#입니다. 우연히 OpenWrt에 빠진 것이 시작으로, iStoreOS용 LuCI 앱을 여러 개 만들었고 가장 공을 들인 것은 luci-app-model-gateway입니다. 여러 대형 모델의 무료 사용량을 한데 모아 하나의 API로 마음껏 쓸 수 있고, 대화가 끊기지 않습니다.
 
-I don't build everything myself, though. PRs into other people's repos take up the rest of my time. Running live shows needed a decent controller, so vMixUTC got a full multi-language rebuild, a canvas mode, and a pile of bug fixes from me. Nomi, an open-source AI video workbench, gets feature contributions on and off. Some of it merged, some needs another round. That merged notification never gets old.
+모두 직접 만드는 건 아닙니다. 남의 프로젝트에 PR을 보내는 게 남은 시간의 쓰임새입니다. 방송용 조종 패널이 필요해 vMixUTC에 다국어 지원과 캔버스 모드를 제안했고 버그 수정도 많이 보냈습니다. 오픈소스 AI 영상 워크벤치인 Nomi에도 기능 코드를 틈틈이 보냅니다. 합쳐진 것도 있고 더 다듬어야 할 것도 있습니다. merge 알림은 볼 때마다 기분이 좋습니다.
 
-Whatever finally works ends up on a video site, along with the bugs I stepped on. If you also believe tools should serve creation instead of getting in its way, we'll probably get along.
+잘 돌아가게 된 것은 영상 사이트에 올려두고, 밟아온 함정도 함께 기록합니다. 도구는 창작을 위해 존재하지, 창작을 방해하는 게 아니라고 생각한다면 우리는 잘 통할 겁니다.
 
 <br/>
 
-## Featured projects
+## 주요 프로젝트
 
 <p align="center">
   <a href="https://github.com/wanvfx/luci-app-model-gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=luci-app-model-gateway&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="luci-app-model-gateway"/></a>&nbsp;
@@ -33,11 +33,11 @@ Whatever finally works ends up on a video site, along with the bugs I stepped on
   <a href="https://github.com/wanvfx/openwrt-app-actions/tree/main/applications/luci-app-cloudreve"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=openwrt-app-actions&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="openwrt-app-actions"/></a>
 </p>
 
-luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third card is the iStore/OpenWrt app collection, click through to the applications/luci-app-cloudreve folder, a netdisk app that runs on soft routers.
+세 프로젝트입니다. luci-app-model-gateway는 직접 만든 것이고, vMixUTC는 상류 기여입니다. 세 번째는 iStore/OpenWrt 앱 모음 저장소로, applications/luci-app-cloudreve에 소프트 라우터에서 도는 저장소 앱이 있습니다.
 
 <br/>
 
-## Tech stack
+## 기술 스택
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,cs,dotnet,html,css,vue,react,nodejs,electron,tauri,docker,linux,bash,git,github,nginx,redis,mysql&perline=11&theme=light" alt="tech stack icons"/>
@@ -56,7 +56,7 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 
 <br/>
 
-## GitHub at a glance
+## GitHub 기록
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wanvfx&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A" alt="stats card"/>&nbsp;
@@ -75,21 +75,21 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 
 <br/>
 
-## What I'm up to lately
+## 최근 하고 있는 일
 
-- Nomi: an open-source AI video workbench I send feature PRs to, not my project
+- Nomi: 오픈소스 AI 영상 워크벤치. 제 프로젝트는 아니고 상류에 기능 PR을 보내고 있습니다
 
-- luci-app-model-gateway: my own AI gateway, still evolving. Quota pooling, routing, caching, health checks
+- luci-app-model-gateway: 직접 만든 AI 게이트웨이, 개선 중. 사용량 통합, 라우팅, 캐시, 헬스 체크
 
-- vMixUTC: multi-language support and a canvas mode submitted upstream, plus a long tail of bug fixes
+- vMixUTC: 상류에 다국어 지원과 캔버스 모드를 제안하고, 버그 수정도 계속 보내는 중
 
-- A video site: whatever I get working, and the occasional rant about workflows
+- 영상 사이트: 돌아가게 된 것들을 올리고, 워크플로 푸념도 가끔
 
 <br/>
 
-## Find me
+## 연락처
 
-If anything here is useful, a ⭐ is all the encouragement I need.
+도움이 되셨다면 ★ 하나가 가장 큰 응원입니다.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wanvfx&style=flat&color=0969DA&label=PROFILE+VIEWS" alt="profile views"/>&nbsp;

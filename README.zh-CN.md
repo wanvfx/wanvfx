@@ -1,28 +1,28 @@
-<p align="center"><b>🇺🇸 English</b> &nbsp;·&nbsp; <a href="./README.zh-CN.md">🇨🇳 简体中文</a> &nbsp;·&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;·&nbsp; <a href="./README.ko.md">🇰🇷 한국어</a></p>
+<p align="center"><a href="./README.md">🇺🇸 English</a> &nbsp;·&nbsp; <b>🇨🇳 简体中文</b> &nbsp;·&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;·&nbsp; <a href="./README.ko.md">🇰🇷 한국어</a></p>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:15426B,100:1F6FEB&height=260&section=header&text=Zoyaya&fontSize=84&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&fontFamily=Verdana" alt="Zoyaya"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=0969DA&center=true&vCenter=true&width=560&duration=2600&pause=1200&lines=Hi%2C%20I%27m%20Zoyaya;I%20write%20code.%20Live%20shows%20too.;Go%20%2F%20Python%20%2F%20C%23%20%2F%20Vue%20%2F%20React;OpenWrt%20%26%20iStoreOS%20plugin%20dev;Tools%20should%20serve%20creation" alt="typed intro"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&size=22&color=0969DA&center=true&vCenter=true&width=560&duration=2600&pause=1200&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Zoyaya;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E7%8E%A9%E7%9B%B4%E6%92%AD;Go%20%2F%20Python%20%2F%20C%23%20%2F%20Vue%20%2F%20React;OpenWrt%20%E4%B8%8E%20iStoreOS%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91;%E5%B7%A5%E5%85%B7%E8%AF%A5%E6%9C%8D%E5%8A%A1%E4%BA%8E%E5%88%9B%E4%BD%9C" alt="typed intro"/>
 
 </div>
 
 <br/>
 
-## About me
+## 关于我
 
-Hi there, I'm Zoyaya, just a hobbyist who enjoys taking things apart. Go and Python are what I poke at for fun; when something about my router annoys me I dig into OpenWrt; live shows and video tools eat the rest of my weekends. None of this is a day job. It's curiosity, plus a bit of stubbornness.
+你好呀，我是 Zoyaya，一个喜欢瞎折腾的爱好者。Go 和 Python 是图一乐才写的；路由器哪里不顺眼，就钻进 OpenWrt 修；直播和视频工具占满了剩下的周末。没有一样是正职，全是好奇心作祟，外加一点倔。
 
-The languages I fiddle with are Go and Python, with C# for small Windows tools. It started as an OpenWrt rabbit hole, then a few LuCI apps for iStoreOS. The one I care about most is luci-app-model-gateway: it pools the free quotas of several LLM providers behind a single API, so your conversation never drops mid-way.
+平时鼓捣的语言是 Go 和 Python，写小工具换 C#。当初因为 OpenWrt 入坑，后来给 iStoreOS 写了几个 LuCI 应用，最上心的是 luci-app-model-gateway：把多家大模型的免费额度聚到一起，一个接口随便用，对话不断联。
 
-I don't build everything myself, though. PRs into other people's repos take up the rest of my time. Running live shows needed a decent controller, so vMixUTC got a full multi-language rebuild, a canvas mode, and a pile of bug fixes from me. Nomi, an open-source AI video workbench, gets feature contributions on and off. Some of it merged, some needs another round. That merged notification never gets old.
+也不是什么都自己造。给别人的项目提 PR 占了剩下的时间：直播缺个像样的控制台，就给 vMixUTC 提了完整的多国语言和画布模式，附赠一堆 bug 修复；Nomi 那个开源 AI 视频工作台，也陆陆续续交了些功能代码。有的合了，有的还要再磨，但每次看到 merged 都挺开心。
 
-Whatever finally works ends up on a video site, along with the bugs I stepped on. If you also believe tools should serve creation instead of getting in its way, we'll probably get along.
+折腾出点名堂的东西，会丢到一个视频网站上，顺便记下踩过的坑。如果你也觉得工具应该服务于创作，而不是给创作添堵，那我们大概能聊到一块去。
 
 <br/>
 
-## Featured projects
+## 精选项目
 
 <p align="center">
   <a href="https://github.com/wanvfx/luci-app-model-gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=luci-app-model-gateway&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="luci-app-model-gateway"/></a>&nbsp;
@@ -33,11 +33,11 @@ Whatever finally works ends up on a video site, along with the bugs I stepped on
   <a href="https://github.com/wanvfx/openwrt-app-actions/tree/main/applications/luci-app-cloudreve"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=openwrt-app-actions&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="openwrt-app-actions"/></a>
 </p>
 
-luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third card is the iStore/OpenWrt app collection, click through to the applications/luci-app-cloudreve folder, a netdisk app that runs on soft routers.
+三个项目：luci-app-model-gateway 是自己写的；vMixUTC 是给上游提的贡献；第三个是 iStore/OpenWrt 应用集合仓库，点进 applications/luci-app-cloudreve 目录，那是跑在软路由上的网盘应用。
 
 <br/>
 
-## Tech stack
+## 技术栈
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,cs,dotnet,html,css,vue,react,nodejs,electron,tauri,docker,linux,bash,git,github,nginx,redis,mysql&perline=11&theme=light" alt="tech stack icons"/>
@@ -56,7 +56,7 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 
 <br/>
 
-## GitHub at a glance
+## GitHub 数据
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wanvfx&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A" alt="stats card"/>&nbsp;
@@ -75,21 +75,21 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 
 <br/>
 
-## What I'm up to lately
+## 最近在做的事
 
-- Nomi: an open-source AI video workbench I send feature PRs to, not my project
+- Nomi：开源的 AI 视频工作台，我在给上游提功能 PR，不是我的项目
 
-- luci-app-model-gateway: my own AI gateway, still evolving. Quota pooling, routing, caching, health checks
+- luci-app-model-gateway：自己写的 AI 网关，持续迭代。额度聚合、路由、缓存、健康检测都在补
 
-- vMixUTC: multi-language support and a canvas mode submitted upstream, plus a long tail of bug fixes
+- vMixUTC：给上游提交了多国语言和画布模式，外加一连串 bug 修复
 
-- A video site: whatever I get working, and the occasional rant about workflows
+- 一个视频网站：折腾出点名堂的都发上去，偶尔吐槽工作流
 
 <br/>
 
-## Find me
+## 找到我
 
-If anything here is useful, a ⭐ is all the encouragement I need.
+项目对你有用的话，顺手点个 ⭐，这就是我继续折腾的动力。
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wanvfx&style=flat&color=0969DA&label=PROFILE+VIEWS" alt="profile views"/>&nbsp;
