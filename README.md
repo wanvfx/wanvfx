@@ -25,12 +25,12 @@ Whatever finally works ends up on a video site, along with the bugs I stepped on
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/wanvfx/luci-app-model-gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=luci-app-model-gateway&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="luci-app-model-gateway"/></a>&nbsp;
-  <a href="https://github.com/wanvfx/vMixUTC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=vMixUTC&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="vMixUTC"/></a>
+  <a href="https://github.com/wanvfx/luci-app-model-gateway"><img src="images/pin-luci-app-model-gateway.svg" alt="luci-app-model-gateway"/></a>&nbsp;
+  <a href="https://github.com/wanvfx/vMixUTC"><img src="images/pin-vMixUTC.svg" alt="vMixUTC"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/wanvfx/openwrt-app-actions/tree/main/applications/luci-app-cloudreve"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wanvfx&repo=openwrt-app-actions&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A&show_owner=false" alt="openwrt-app-actions"/></a>
+  <a href="https://github.com/wanvfx/openwrt-app-actions/tree/main/applications/luci-app-cloudreve"><img src="images/pin-openwrt-app-actions-en.svg" alt="openwrt-app-actions"/></a>
 </p>
 
 luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third card is the iStore/OpenWrt app collection, click through to the applications/luci-app-cloudreve folder, a netdisk app that runs on soft routers.
@@ -59,7 +59,7 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 ## GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanvfx&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A" alt="stats card"/>&nbsp;
+  <img src="images/stats-en.svg" alt="stats card"/>&nbsp;
   <img src="https://streak-stats.demolab.com?user=wanvfx&hide_border=true&background=00000000&border=00000000&stroke=00000000&ring=0969DA&fire=E36209&currStreakNum=0969DA&sideNums=57606A&currStreakLabel=0969DA&sideLabels=57606A&dates=8C959F" alt="streak card"/>
 </p>
 
@@ -70,7 +70,7 @@ luci-app-model-gateway is my own; vMixUTC is a contribution upstream. The third 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanvfx&bg_color=00000000&color=57606A&line=0969DA&point=24292F&area=true&area_color=0969DA1A&hide_border=true&radius=10&custom_title=%E8%BF%91%E4%B8%89%E4%B8%AA%E6%9C%88%E6%8F%90%E4%BA%A4%E5%8A%A8%E6%80%81" alt="activity graph"/>
+  <img src="images/activity-en.svg" alt="activity graph"/>
 </p>
 
 <br/>

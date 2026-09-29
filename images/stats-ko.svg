@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif"><style>
+  svg{--txt:#1F2328;--muted:#57606A;--bg:#FFFFFF;--stroke:#E7EBEF;--accent:#0969DA;}
+  @media (prefers-color-scheme:dark){
+    svg{--txt:#E6EDF3;--muted:#8B949E;--bg:#0D1117;--stroke:#30363D;--accent:#58A6FF;}
+    .l0{fill:#151B23}.l1{fill:#123A5E}.l2{fill:#14508C}.l3{fill:#1668B8}.l4{fill:#0969DA}
+  }
+  .l0{fill:#EBEDF0}.l1{fill:#C0DFFD}.l2{fill:#7FBDF3}.l3{fill:#3D8FE0}.l4{fill:#0969DA}
+  .frame{fill:var(--bg);stroke:var(--stroke)}
+  .ico{stroke:var(--muted);color:var(--muted)}
+  .chip{fill:none;stroke:var(--stroke)}
+  .txt{fill:var(--txt)}
+  .txt.muted{fill:var(--muted)}
+  .accent,.txt.accent{fill:var(--accent)}
+</style><rect class="frame" width="460" height="210" rx="10"/><rect x="0" y="0" width="4" height="210" rx="2" class="accent"/><text class="txt" x="24" y="34" font-size="15" font-weight="600">GitHub 기록</text><text class="txt accent" x="24" y="62" font-size="24" font-weight="700">55</text><text class="txt muted" x="24" y="80" font-size="12">공개 저장소</text><text class="txt accent" x="234" y="62" font-size="24" font-weight="700">5</text><text class="txt muted" x="234" y="80" font-size="12">총 스타</text><text class="txt accent" x="24" y="118" font-size="24" font-weight="700">5</text><text class="txt muted" x="24" y="136" font-size="12">팔로워</text><text class="txt accent" x="234" y="118" font-size="24" font-weight="700">16</text><text class="txt muted" x="234" y="136" font-size="12">팔로잉</text><text class="txt muted" x="24" y="158" font-size="11">저장소 주 언어별</text><g transform="translate(24,172)"><rect class="chip" width="76" height="20" rx="10"/><circle cx="10" cy="10" r="4" fill="#3572A5"/><text class="txt muted" x="19" y="14" font-size="11">Python 6</text></g><g transform="translate(106,172)"><rect class="chip" width="69" height="20" rx="10"/><circle cx="10" cy="10" r="4" fill="#89e051"/><text class="txt muted" x="19" y="14" font-size="11">Shell 4</text></g><g transform="translate(181,172)"><rect class="chip" width="104" height="20" rx="10"/><circle cx="10" cy="10" r="4" fill="#f1e05a"/><text class="txt muted" x="19" y="14" font-size="11">JavaScript 2</text></g><g transform="translate(291,172)"><rect class="chip" width="48" height="20" rx="10"/><circle cx="10" cy="10" r="4" fill="#178600"/><text class="txt muted" x="19" y="14" font-size="11">C# 2</text></g><g transform="translate(345,172)"><rect class="chip" width="48" height="20" rx="10"/><circle cx="10" cy="10" r="4" fill="#00ADD8"/><text class="txt muted" x="19" y="14" font-size="11">Go 2</text></g></svg>

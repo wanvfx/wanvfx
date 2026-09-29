@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="150" viewBox="0 0 460 150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif"><style>
+  svg{--txt:#1F2328;--muted:#57606A;--bg:#FFFFFF;--stroke:#E7EBEF;--accent:#0969DA;}
+  @media (prefers-color-scheme:dark){
+    svg{--txt:#E6EDF3;--muted:#8B949E;--bg:#0D1117;--stroke:#30363D;--accent:#58A6FF;}
+    .l0{fill:#151B23}.l1{fill:#123A5E}.l2{fill:#14508C}.l3{fill:#1668B8}.l4{fill:#0969DA}
+  }
+  .l0{fill:#EBEDF0}.l1{fill:#C0DFFD}.l2{fill:#7FBDF3}.l3{fill:#3D8FE0}.l4{fill:#0969DA}
+  .frame{fill:var(--bg);stroke:var(--stroke)}
+  .ico{stroke:var(--muted);color:var(--muted)}
+  .chip{fill:none;stroke:var(--stroke)}
+  .txt{fill:var(--txt)}
+  .txt.muted{fill:var(--muted)}
+  .accent,.txt.accent{fill:var(--accent)}
+</style><rect class="frame" width="460" height="150" rx="10"/><g transform="translate(22,22)" class="ico"><path d="M2.5 2.5h7.5c.8 0 1.5.7 1.5 1.5v9H4c-.8 0-1.5.7-1.5 1.5z" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M2.5 13.5V2.5" fill="none" stroke="currentColor" stroke-width="1.4"/></g><text class="txt accent" x="52" y="36" font-size="19" font-weight="600">vMixUTC</text><text class="txt muted" x="22" y="70" font-size="12.5">Customizable controller for </text><text class="txt muted" x="22" y="88" font-size="12.5">vMix</text><g transform="translate(22,118)" class="ico"><path d="M9 1.6l2 4.1 4.5.65-3.25 3.2.77 4.5L9 11.85 4.98 14.05l.77-4.5L2.5 6.35 7 5.7z" fill="#E3B341"/><text class="txt muted" x="18" y="3" font-size="12">0</text></g><g transform="translate(78,118)" class="ico"><circle cx="3" cy="3.2" r="1.7" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="3" cy="11.8" r="1.7" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="11" cy="11.8" r="1.7" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M3 4.9v5.2M3 9.4c0-1.5 1.2-2.6 2.7-2.6h2.1" fill="none" stroke="currentColor" stroke-width="1.3"/><text class="txt muted" x="18" y="3" font-size="12">0</text></g><g transform="translate(134,118)"><circle cx="0" cy="-3" r="5" fill="#178600"/><text class="txt muted" x="11" y="1" font-size="12">C#</text></g></svg>
